@@ -1,0 +1,14 @@
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\bin\Debug\net6.0\Casting - OperatorOverloading - Indexer.exe
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\bin\Debug\net6.0\Casting - OperatorOverloading - Indexer.deps.json
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\bin\Debug\net6.0\Casting - OperatorOverloading - Indexer.runtimeconfig.json
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\bin\Debug\net6.0\Casting - OperatorOverloading - Indexer.dll
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\bin\Debug\net6.0\Casting - OperatorOverloading - Indexer.pdb
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.AssemblyInfoInputs.cache
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.AssemblyInfo.cs
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.csproj.CoreCompileInputs.cache
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.dll
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\refint\Casting - OperatorOverloading - Indexer.dll
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.pdb
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\Casting - OperatorOverloading - Indexer.genruntimeconfig.cache
+C:\C#\Casting - OperatorOverloading - Indexer\Casting - OperatorOverloading - Indexer\obj\Debug\net6.0\ref\Casting - OperatorOverloading - Indexer.dll
